@@ -123,7 +123,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 ---
 ### 🥛 Milora || Full-Stack Distributed Supply Chain & Vendor Ecosystem
 <p align="left">
-  <a href="">
+  <a href="https://github.com/dasaridevika/Milora">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
 </p>
@@ -137,7 +137,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 ---
 ### 🧠 Mind Link || Algorithmic Dual-Agent Coordinate Puzzle Engine
 <p align="left">
-  <a href="">
+  <a href="https://github.com/dasaridevika/Mind_link_App">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
 </p>
