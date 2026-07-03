@@ -55,7 +55,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ---
 
-### 🧠 InsightCore // Autonomous AI Data Analyst & Sandbox Engine
+### 🧠 InsightCore || Autonomous AI Data Analyst & Sandbox Engine
 <p align="left">
   <a href="YOUR_GITHUB_REPO_LINK_HERE">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
@@ -69,5 +69,23 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 * **Impact & Insights:** Designed a self-correcting 3-attempt execution loop that automatically traps console errors, intercepts local execution states, and writes self-healing code parameters directly.
 * **Architectural Mastery:** Injected advanced telemetry grid UI layers, persistent data schema tab grids, and immediate pipeline CSV output downloading.
 * **Stack:** `Python` `Google GenAI SDK (Gemini-2.5)` `Streamlit` `Pandas` `Matplotlib` `Seaborn`.
+
+---
+
+### ⚡ Project OmniMarket || Industrial Data Ingestion Architecture
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
+  </a>
+</p>
+
+> Built a strict, production-grade ingestion engine engineered under a rigid zero external dependency contract (utilizing only Python's native standard library). The system cleanly decouples the network harvest layer, defensive sanitization structures, and high-velocity disk persistence.
+* **Network Resilience:** Implemented self-healing ingestion mechanics utilizing exponential backoff delay multipliers to elegantly handle 503 throttling errors and connection dropping boundaries.
+* **Defensive Schema Validation:** Formulated dynamic data origin mapping gates that strictly quarantine records with structural errors or blank identifiers before they hit physical storage.
+* **High-Performance Persistence:** Architected an $O(1)$ memory space footprint processor that streams log lines natively, utilizing forced RAM-to-disk buffer flushes and comma-escaping cells for bulletproof Excel/CSV compatibility.
+* **Stack:** `Pure Python` `Network Sockets (urllib)` `JSON Lines (JSONL)` `Data Warehousing` `I/O Buffering`
 
 ---
