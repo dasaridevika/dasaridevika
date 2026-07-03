@@ -74,10 +74,10 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ### ⚡ Project OmniMarket || Industrial Data Ingestion Architecture
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/OmniMarket_DataInjestionViaAPI">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
-  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+  <a href="https://autonomousaidataanalyst.streamlit.app">
     <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
   </a>
 </p>
@@ -92,11 +92,8 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ### 🤖 InsightCore || Autonomous Multi-Agent Data Analytics Core
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/RuleBasedAgenticAI">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
-  </a>
-  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
-    <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
   </a>
 </p>
 
@@ -104,13 +101,13 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 * **Multi-Agent Orchestration:** Configured specialized functional agents (LoaderAgent, DatasetUnderstandingAgent, CleanerAgent, OutlierAgent, EDAAgent, VisualizationAgent, and InsightAgent) working sequentially via a master control loop execution architecture.
 * **Defensive Automated Cleaning:** Implemented auto-healing pipeline stages utilizing Interquartile Range (IQR) matrix analysis for outlier isolation alongside selective median/mode replacement strategies for missing text fields.
 * **Autonomous Script Execution:** Built a sandboxed reflection loop wrapper utilizing a `gemini-2.5-flash` model brain to dynamically compile, test, inject, and execute clean Python scripts over custom runtime local environments.
-* **Stack:** `Python` `Google GenAI SDK (Gemini-2.5)` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+* **Stack:** `Python` `Google GenAI SDK (Gemini-2.5)` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ---
 
 ### 🛠️ Project ChronoLogic || Rule-Based Tool Orchestration Agent
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/RuleBasedToolAgenticAI">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
 </p>
