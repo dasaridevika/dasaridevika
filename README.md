@@ -121,7 +121,20 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 * **Stack:** `Pure Python` `Functional Tool Routing` `Datetime Handling` `Parser Exceptions`
 
 ---
+### 🥛 Milora || Full-Stack Distributed Supply Chain & Vendor Ecosystem
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
 
+> Engineered a secure, mobile supply-chain management application designed for independent micro-vendors and local consumers to streamline daily inventory distribution, variable order adjustments, and real-time billing audits.
+- **Dynamic Branching & Authentication:** Developed a secure, low-friction onboarding flow utilizing unique vendor-generated cryptographic invitation codes to dynamically branch and map customer profile architectures to specific merchant store models inside Cloud Firestore.
+- **Asynchronous Telemetry & Data Sync:** Implemented cloud backend listeners to manage live double-sided flags, allowing customers to dynamically modify delivery quantities while providing vendors with instant infrastructure overrides to toggle daily delivery possibility states.
+- **Transactional Integrity:** Designed nested database schemas to maintain immutable records for delivery logs, historical payment ledgers, and automated cyclical bill generation, preventing structural synchronization dropouts.
+- **Stack:** `Kotlin` `Android SDK` `Cloud Firestore` `Firebase Authentication` `NoSQL Architectural Patterns`
+
+---
 ### 📊 Amazon Ecosystem Analytics || High-Scale Data Profiling Pipeline
 <p align="left">
   <a href="YOUR_GITHUB_REPO_LINK_HERE">
