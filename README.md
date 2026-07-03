@@ -12,6 +12,7 @@
 I am a builder driven by a profound obsession with system efficiency and real-time problem-solving. As an Electrical and Electronics Engineering graduate, I don't just write code—I understand how data, hardware, and software interact at a architectural level[cite: 2, 5, 6]. Whether I am designing automated data engineering pipelines over 50k+ datasets, building high-concurrency full-stack platforms, or exploring the frontiers of Agentic AI, my goal is always identical: **Eliminate friction, build things that matter, and never stop learning**[cite: 6, 11].
 
 </div>
+
 ## 🚀 The Technical Ecosystem
 
 ### 💻 Core Programming & Backend Logic
