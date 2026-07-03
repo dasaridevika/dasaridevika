@@ -90,7 +90,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ---
 
-### 🤖 InsightCore // Autonomous Multi-Agent Data Analytics Core
+### 🤖 InsightCore || Autonomous Multi-Agent Data Analytics Core
 <p align="left">
   <a href="YOUR_GITHUB_REPO_LINK_HERE">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
@@ -108,7 +108,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ---
 
-### 🛠️ Project ChronoLogic // Rule-Based Tool Orchestration Agent
+### 🛠️ Project ChronoLogic || Rule-Based Tool Orchestration Agent
 <p align="left">
   <a href="YOUR_GITHUB_REPO_LINK_HERE">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
@@ -137,6 +137,22 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ---
 
+### 🚗 Global EV Adoption Behavior Analytics Suite
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
+  </a>
+</p>
+
+> Conducted an end-to-end data analysis over a production-scale 50,000-record behavior dataset to isolate the core drivers and infrastructural friction points of electric vehicle market expansion.
+- **Economic Profiling:** Extracted critical economic trends showing high adoption segment correlation with an elevated mean annual income of 52,219.83, compared to the low adoption segment baseline of 29,402.02.
+- **Behavioral Barriers:** Isolated range anxiety as the single most critical psychographic inhibitor to conversion, with range anxiety scores dropping precipitously from 7.76 (Low Adoption) to 4.14 (High Adoption).
+- **Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL.
+- 
+---
 ### ⚡ Smart Grid || ML-Driven Priority EV Charging Control Matrix with Live dashboard
 <p align="left">
   <a href="YOUR_GITHUB_REPO_LINK_HERE">
@@ -150,3 +166,4 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 * **Stack:** `MATLAB / Simulink` `Python (Scikit-Learn)` `PWM Control Logic` `MySQL` `AutoCAD Electrical``HTML` `CSS` `Javascript` 
 
 ---
+
