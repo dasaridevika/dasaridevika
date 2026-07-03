@@ -56,7 +56,18 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 ---
 
 ### 🧠 InsightCore // Autonomous AI Data Analyst & Sandbox Engine
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
+  </a>
+</p>
+
 > Engineered a senior-grade autonomous data workspace leveraging a specialized `gemini-2.5-flash` cognitive brain to execute natural language data engineering and visualization directives.
 * **Impact & Insights:** Designed a self-correcting 3-attempt execution loop that automatically traps console errors, intercepts local execution states, and writes self-healing code parameters directly.
 * **Architectural Mastery:** Injected advanced telemetry grid UI layers, persistent data schema tab grids, and immediate pipeline CSV output downloading.
 * **Stack:** `Python` `Google GenAI SDK (Gemini-2.5)` `Streamlit` `Pandas` `Matplotlib` `Seaborn`.
+
+---
