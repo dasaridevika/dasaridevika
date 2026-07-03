@@ -149,6 +149,27 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 - **Stack:** `Kotlin` `Android SDK` `Matrix Algebra Logic` `State Design Patterns` `Grid Coordinate Systems`
 
 ---
+
+### 💖 CherishFlow || Emotion-Centric Relationship Memory & Well-Being Platform
+<p align="left">
+  <a href="https://github.com/dasaridevika/CherishFlow">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
+
+> Developed a comprehensive emotion-driven Android application focused on strengthening relationships through memory preservation, personalized journaling, emotional analytics, and intelligent interaction management.
+
+- **Emotion-Aware Relationship Management:** Engineered a personalized memory ecosystem enabling users to capture, organize, and revisit meaningful moments, milestones, and shared experiences through a highly intuitive and visually engaging interface.
+
+- **Adaptive Personalization Framework:** Designed a dynamic customization layer allowing users to personalize their experience with relationship-specific information, emotional contexts, and individualized interaction histories to create a deeply personal digital space.
+
+- **Structured Memory & Reflection Engine:** Implemented advanced journaling and event-management workflows for recording special occasions, memorable experiences, and emotional reflections while maintaining seamless retrieval and chronological organization.
+
+- **Human-Centered UI/UX Architecture:** Built a modern, aesthetically rich user experience using contemporary Android design principles, emphasizing accessibility, emotional engagement, and fluid user interactions across multiple application modules.
+
+- **Scalable Application Design:** Architected the application with modular components and clean separation of concerns to support future extensibility, feature evolution, and maintainable long-term development.
+
+- **Stack:** `Kotlin` `Android SDK` `Material Design 3` `Jetpack Compose` `Firebase` `State Management` `MVVM Architecture` `UI/UX Engineering`
 ### 📊 Amazon Ecosystem Analytics || High-Scale Data Profiling Pipeline
 <p align="left">
   <a href="https://github.com/dasaridevika/Amazon_Analytics">
@@ -186,7 +207,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
   <a href="https://dasaridevika.github.io/project_stage2.github.io/">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Website link"/>
+    <img src="https://img.shields.io/badge/GitHub-Webview-181717?style=flat-square&logo=github&logoColor=white" alt="Website link"/>
 </p>
 
 > Designed an intelligent solar-powered multi-port distribution grid that blends physical power electronics simulation models with machine learning resource allocation.
