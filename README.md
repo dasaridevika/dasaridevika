@@ -135,6 +135,20 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 - **Stack:** `Kotlin` `Android SDK` `Cloud Firestore` `Firebase Authentication` `NoSQL Architectural Patterns`
 
 ---
+### 🧠 Mind Link // Algorithmic Dual-Agent Coordinate Puzzle Engine
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
+
+> Developed an analytical logic-puzzle mobile application featuring over 200 distinct levels built around mirrored coordinate physics, contrary vector transformation, and simultaneous goal-state resolution.
+- **Contrary Motion & Inverse Vector Tracking:** Programmed a unique mechanical control layer where choosing a primary agent color (Blue or Pink) locks active input to that token, while automatically translating those movements into exact, inverse directional vector steps for the opposing token.
+- **Simultaneous Target Verification:** Engineered strict, deterministic state-validation rules ensuring a successful level-clear condition triggers only when both independent coordinate matrices collide with their designated destination targets on the exact same move execution.
+- **High-Scale Grid Architecture:** Designed and optimized a structural layout engine handling 200+ unique levels, using pathfinding boundaries and matrix collision checks to ensure perfect mathematical solvability across complex, restricted grid maps.
+- **Stack:** `Kotlin` `Android SDK` `Matrix Algebra Logic` `State Design Patterns` `Grid Coordinate Systems`
+
+---
 ### 📊 Amazon Ecosystem Analytics || High-Scale Data Profiling Pipeline
 <p align="left">
   <a href="YOUR_GITHUB_REPO_LINK_HERE">
