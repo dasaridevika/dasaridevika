@@ -89,3 +89,35 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 * **Stack:** `Pure Python` `Network Sockets (urllib)` `JSON Lines (JSONL)` `Data Warehousing` `I/O Buffering`
 
 ---
+
+### 🤖 InsightCore // Autonomous Multi-Agent Data Analytics Core
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
+  </a>
+</p>
+
+> Architected a modular multi-agent system designed to completely automate the pipeline of raw dataset ingestion, exploratory analysis, cleaning, outlier tracking, and executive business reporting.
+* **Multi-Agent Orchestration:** Configured specialized functional agents (LoaderAgent, DatasetUnderstandingAgent, CleanerAgent, OutlierAgent, EDAAgent, VisualizationAgent, and InsightAgent) working sequentially via a master control loop execution architecture.
+* **Defensive Automated Cleaning:** Implemented auto-healing pipeline stages utilizing Interquartile Range (IQR) matrix analysis for outlier isolation alongside selective median/mode replacement strategies for missing text fields.
+* **Autonomous Script Execution:** Built a sandboxed reflection loop wrapper utilizing a `gemini-2.5-flash` model brain to dynamically compile, test, inject, and execute clean Python scripts over custom runtime local environments.
+* **Stack:** `Python` `Google GenAI SDK (Gemini-2.5)` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+---
+
+### 🛠️ Project ChronoLogic // Rule-Based Tool Orchestration Agent
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
+
+> Engineered an asynchronous rule-based orchestration brain utilizing structured decision logic paths to safely route natural language instructions to local mathematical tools, temporal tracking mechanisms, and key-value static databases.
+* **Architectural Decoupling:** Implemented standalone function wrappers with localized scopes (`calculator()`, `get_time()`, and `knowledge_tool()`) to completely separate processing logic from memory loops.
+* **Deterministic Tool Routing:** Designed a prompt-matching logic layer to route expressions to mathematical parser interpreters using `eval()` exception shielding.
+* **Stack:** `Pure Python` `Functional Tool Routing` `Datetime Handling` `Parser Exceptions`
+
+---
