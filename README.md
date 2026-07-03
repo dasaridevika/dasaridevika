@@ -57,10 +57,10 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ### 🧠 InsightCore || Autonomous AI Data Analyst & Sandbox Engine
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/Autonomous_AI_DataAnalyst">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
-  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+  <a href="https://autonomousaidataanalyst.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
   </a>
 </p>
@@ -123,7 +123,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 ---
 ### 🥛 Milora || Full-Stack Distributed Supply Chain & Vendor Ecosystem
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
 </p>
@@ -135,9 +135,9 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 - **Stack:** `Kotlin` `Android SDK` `Cloud Firestore` `Firebase Authentication` `NoSQL Architectural Patterns`
 
 ---
-### 🧠 Mind Link // Algorithmic Dual-Agent Coordinate Puzzle Engine
+### 🧠 Mind Link || Algorithmic Dual-Agent Coordinate Puzzle Engine
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
 </p>
@@ -151,7 +151,7 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 ---
 ### 📊 Amazon Ecosystem Analytics || High-Scale Data Profiling Pipeline
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/Amazon_Analytics">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
 </p>
@@ -182,9 +182,11 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 ---
 ### ⚡ Smart Grid || ML-Driven Priority EV Charging Control Matrix with Live dashboard
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/project_stage2.github.io">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
+  <a href="https://dasaridevika.github.io/project_stage2.github.io/">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Website link"/>
 </p>
 
 > Designed an intelligent solar-powered multi-port distribution grid that blends physical power electronics simulation models with machine learning resource allocation.
