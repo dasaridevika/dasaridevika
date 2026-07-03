@@ -147,6 +147,6 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 > Designed an intelligent solar-powered multi-port distribution grid that blends physical power electronics simulation models with machine learning resource allocation.
 * **Throughput Optimization:** Developed a dynamic load-balancing priority framework using reactive PWM control loops, yielding a documented **25% speed throughput enhancement** for critical or emergency vehicles under heavy grid constraints.
 * **Hardware-in-Loop Verification:** Configured automated testing scripts within MATLAB/Simulink to simulate electrical grid fault conditions and test maximum power point tracking (MPPT) solar efficiency thresholds.
-* **Stack:** `MATLAB / Simulink` `Python (Scikit-Learn)` `PWM Control Logic` `MySQL` `AutoCAD Electrical`'HTML' 'CSS' 'Javascript' 
+* **Stack:** `MATLAB / Simulink` `Python (Scikit-Learn)` `PWM Control Logic` `MySQL` `AutoCAD Electrical``HTML` `CSS` `Javascript` 
 
 ---
