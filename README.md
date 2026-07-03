@@ -166,10 +166,10 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ### 🚗 Global EV Adoption Behavior Analytics Suite
 <p align="left">
-  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+  <a href="https://github.com/dasaridevika/EV_Adoption_Analytics_Dashboard">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
   </a>
-  <a href="YOUR_STREAMLIT_APP_LINK_HERE">
+  <a href="https://evadoptionanalyticsdashboard-xmn6fyfdbkcapc6kfmzmh5.streamlit.app">
     <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live App Link"/>
   </a>
 </p>
