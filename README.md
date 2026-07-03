@@ -1,43 +1,54 @@
-# 👋 Hi, I'm Devika Dasari! 
-**Data Analyst | Full-Stack Developer | EV Systems & Automation Engineer**
+<div align="center">
 
-A multifaceted B.Tech Electrical and Electronics Engineering student at JNTUH College of Engineering, Jagtial. I bridge the gap between heavy hardware systems, intelligent software architectures, and data analytics. From designing full-stack web platforms to training ML models for EV grid optimization, I love turning complex logic into high-performance solutions.
----
-### 🚀 Technical Toolkit
-| Category | Technologies |
-| :--- | :--- |
-| **Programming & Core CS** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Data Analytics & BI** | ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Web & Backend Development** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Engineering & AI Simulations** | ![MATLAB / Simulink](https://img.shields.io/badge/MATLAB_Simulink-ED1C24?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
----
-### 📈 Current Learning Flow & Active Work
+# ⚡ Devika Dasari ⚡
+### **Data Analyst | Full-Stack Developer | EV Systems & Automation Engineer**
+*Bridging the gap between heavy electrical infrastructure, intelligent software architectures, and data-driven insights.*
 
-- 📊 **Data Transformation:** Extracting consumer insights from massive production datasets using exploratory data analysis (EDA).
-- ⚙️ **Smart Systems:** Optimizing power distribution grids and EV multi-port architectures using responsive algorithmic rules.
-- 💻 **Backend Logic:** Implementing secure exception-handling patterns, structured custom workflows, and REST capabilities.
----
-### 📂 Highlighted Engineering Works
-#### ⚡ [ML-Driven Priority EV Charging System](https://github.com/dasaridevika) 
-> An intelligent system that handles real-time load management using machine learning decision pipelines combined with a custom web dashboard.
-- **Impact:** Simulated dynamic load distribution and fast charging optimizations for multi-port environments.
-- **Tech Stack:** Python, MATLAB/Simulink, SQL, Web Interfaces
-#### 🌐 [College Fest Registration Platform](https://github.com/dasaridevika)
-> A full-stack management application engineered to streamline event routing, registrations, and scheduling logistics.
-- **Impact:** Handled 300+ concurrent user sessions flawlessly during live university event onboarding.
-- **Tech Stack:** Python, Flask, JavaScript, HTML/CSS
-
-#### 🤖 [Face Recognition Attendance Tracker](https://github.com/dasaridevika)
-> An automation program designed to replace traditional manual logging with modern image classification logic.
-- **Impact:** Achieved a 95% classification accuracy using real-time spatial matrix mappings.
-- **Tech Stack:** Python, OpenCV, KNN Algorithm
----
-### 📊 Github Performance Metrics
-![Devika's Stats](https://github-readme-stats.vercel.app/api?username=dasaridevika&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasaridevika&layout=compact&theme=radical&hide_border=true)
+[💼 LinkedIn Profile](https://www.linkedin.com/in/devika-digital) • [📧 Email Me](mailto:devikadasari005@gmail.com) • [🚀 Portfolio Showcase](#-featured-production-ecosystems)
 
 ---
 
-### 🤝 Connect with Me
-- 💼 **LinkedIn:** [/in/devika-digital](https://www.linkedin.com/in/devika-digital)
-- 📧 **Email:** devikadasari005@gmail.com
+### 🧠 The Tech Nerd Manifesto
+I am a builder driven by a profound fascination with system efficiency. Whether I am optimizing the power allocation matrix of a simulated multi-port EV grid, profiling trends across 50,000-record data environments, or building low-latency backend routing systems, my core philosophy remains identical: **Eliminate manual friction, maximize algorithmic performance, and unlock actionable intelligence.** 
+
+</div>
+
+---
+
+## 🚀 The Technical Ecosystem
+
+### 💻 Core Languages & Backend Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript"/>
+</p>
+
+### 📊 Data Intelligence, Databases & Simulations
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+---
+
+## 📈 Learning Velocity & Focus Areas
+
+```mermaid
+gantt
+    title My Current Engineering Roadmap
+    dateFormat  YYYY-MM-DD
+    section Data Science
+    Exploratory Data Analysis & Validation Pipelines :active, data1, 2026-01-01, 2026-07-01
+    section Software Engineering
+    Concurrency Optimization & API Tuning           :active, dev1, 2026-03-01, 2026-08-01
+    section AI & Modeling
+    Predictive Spatial Analysis & ML Models         :active, ai1, 2026-04-01, 2026-09-01
