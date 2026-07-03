@@ -121,3 +121,32 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 * **Stack:** `Pure Python` `Functional Tool Routing` `Datetime Handling` `Parser Exceptions`
 
 ---
+
+### 📊 Amazon Ecosystem Analytics || High-Scale Data Profiling Pipeline
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
+
+> Constructed an end-to-end data scrubbing and exploratory data analysis (EDA) pipeline to parse, clean, and profile e-commerce operational performance matrices.
+* **Defensive Data Scrubbing:** Programmed strict data-cleansing modules to eliminate structural irregularities, handling missing data points with list-wise row deletion and converting non-numeric text columns like rating fields into precise float elements.
+* **Granular Segmentation:** Engineered categorical splitting logic to unpack nested data labels, isolating market dominance metrics (e.g., Electronics leading with 526 active products followed by Computers & Accessories at 451).
+* **Value-Added Delta Calculations:** Formulated retail price delta equations to track absolute consumer savings, identifying major single-unit cost-reduction leaders (e.g., isolating a ₹61,910 absolute saving conversion on premium smart TVs).
+* **Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `OpenPyXL (Styled Multi-Sheet Reporting)`
+
+---
+
+### ⚡ Smart Grid || ML-Driven Priority EV Charging Control Matrix with Live dashboard
+<p align="left">
+  <a href="YOUR_GITHUB_REPO_LINK_HERE">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo Link"/>
+  </a>
+</p>
+
+> Designed an intelligent solar-powered multi-port distribution grid that blends physical power electronics simulation models with machine learning resource allocation.
+* **Throughput Optimization:** Developed a dynamic load-balancing priority framework using reactive PWM control loops, yielding a documented **25% speed throughput enhancement** for critical or emergency vehicles under heavy grid constraints.
+* **Hardware-in-Loop Verification:** Configured automated testing scripts within MATLAB/Simulink to simulate electrical grid fault conditions and test maximum power point tracking (MPPT) solar efficiency thresholds.
+* **Stack:** `MATLAB / Simulink` `Python (Scikit-Learn)` `PWM Control Logic` `MySQL` `AutoCAD Electrical`'HTML' 'CSS' 'Javascript' 
+
+---
