@@ -194,3 +194,22 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ---
 
+## 💼 Professional Experience & Technical Fieldwork
+
+### 💻 Full-Stack Web Development Intern || Skilldunia
+*March 2024 – April 2024*
+- **UI/UX Engineering:** Developed responsive, interactive frontend interfaces using JavaScript and React architectures to maintain layout performance across distinct viewport sizes.
+- **Performance Profiling:** Participated in Agile sprint cycles, performing code debugging, tracing element errors, and optimizing web assets to reduce client-side rendering latency.
+
+### 🔌 Electric Vehicle Architecture Intern || Pantech eLearning
+*May 2024 – June 2024*
+- **Powertrain Modeling:** Deployed physical layout and performance models for electric vehicle powertrains inside modular testing suites.
+- **System Optimizations:** Evaluated alternative component layouts and battery configuration behaviors to analyze running efficiency margins and minimize power distribution losses.
+
+### 🏭 Industrial Technical Fieldwork || TGGENCO Pochampad Hydro Power Plant
+*Technical Plant Orientation*
+- **Grid Control Operations:** Inspected real-time grid synchronization architectures, industrial high-tension (HT) switchgears, and power generation logging telemetry.
+- **Protective Systems:** Analyzed protective electrical relay configurations and automated circuit breaker trip lines designed to maintain physical infrastructure isolation during grid fault spikes.
+
+---
+
