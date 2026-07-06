@@ -54,42 +54,6 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 </p>
 
 ---
-# ⚡ Project MetaPrompt-Gemma || LLM System Architect Agent
-
-Architected an asynchronous, single-agent orchestration engine engineered to completely decouple upstream prompt-blueprint structures from raw user inputs. The system replaces standard conversational multi-turn overhead with an optimized, deterministic compilation pipeline that transforms unstructured product ideas into production-ready system instructions.
-
-* **Native Context Isolation:** Engineered the backend to pass structural guardrails strictly via the `google-genai` SDK’s native `system_instruction` configuration parameters, neutralizing prompt-injection vulnerabilities and data cross-contamination.
-* **Zero-Filler Stream Optimization:** Formulated rigorous linguistic constraints that suppress conversational token noise, forcing the engine to evaluate and generate markdown headers natively at token zero to lower inference cost and downstream latency.
-* **Low-Entropy Safety Sampling:** Configured a fine-tuned temperature ceiling ($0.6$) paired with rigorous schema constraints to guarantee algorithmic consistency while preventing semantic hallucinations across strict operational rules.
-
-**Stack:** Python 3.9+, Streamlit Framework, Google GenAI SDK (`gemma-4-31b-it`), Asynchronous State Orchestration, Secure TLS Protocol.
-
----
-
-## 🚀 Live Links & Deployments
-* **Production Application Web UI:** [Launch Live Web App](YOUR_STREAMLIT_APP_LINK_HERE)
-* **Source Infrastructure Repository:** [View GitHub Repository](YOUR_GITHUB_REPO_LINK_HERE)
-
----
-
-## 🛠️ System Architecture
-
-The pipeline processes user intent via a strict single-agent compilation matrix:
-
-```text
-[ Client Layer: Streamlit UI ]
-               │
-               ▼ (Captures Unstructured User Input)
-[ Context Isolation Layer: System Guardrails Matrix ]
-               │
-               ▼ (Binds Client Configurations + Explicit system_instruction)
-[ Protocol Layer: Google GenAI SDK Client Handshake ]
-               │
-               ▼ (Secure TLS Tunnel via Hosted Cloud Infrastructure)
-[ Core Inference: Cloud-Hosted Gemma-4-31B-IT Engine ]
-               │
-               ▼ (Deterministic Token Stream Generation at Token Zero)
-[ Output Deserialization: Interactive Code Block Container with Native Clipboard Clipboard I/O ]
 
 ### 🧠 InsightCore || Autonomous AI Data Analyst & Sandbox Engine
 <p align="left">
