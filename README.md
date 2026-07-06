@@ -73,27 +73,6 @@ I am a builder driven by a profound obsession with system efficiency and real-ti
 
 ---
 
-## 🏗️ Execution Architecture
-
-The runtime pipeline processes user optimization intent via a strict single-agent compilation matrix:
-
-```text
-[ Client Layer: Streamlit UI ]
-               │
-               ▼ (Captures Unstructured User Intent)
-[ Context Isolation Layer: System Guardrails Matrix ]
-               │
-               ▼ (Binds Client Configurations + Explicit system_instruction)
-[ Protocol Layer: Google GenAI SDK Client Handshake ]
-               │
-               ▼ (Secure TLS Tunnel via Hosted Cloud Infrastructure)
-[ Core Inference: Cloud-Hosted Gemma-4-31B-IT Engine ]
-               │
-               ▼ (Deterministic Token Stream Generation at Token Zero)
-[ Output Deserialization: Interactive Code Block Container with Native Clipboard I/O ]
-
----
-
 ### 🧠 InsightCore || Autonomous AI Data Analyst & Sandbox Engine
 <p align="left">
   <a href="https://github.com/dasaridevika/Autonomous_AI_DataAnalyst">
